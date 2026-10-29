@@ -1,16 +1,23 @@
-## Hi there 👋
+Waldron Rodrigues
+Full-stack software engineer and builder. I love programming, design, and building systems that make a tangible difference.
 
-<!--
-**Waldron18/Waldron18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As an engineer, I combine an obsessive attention to detail with a commitment to clean architecture and minimalist execution.
 
-Here are some ideas to get you started:
+Personal Background & Focus
+👨‍🎓 Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently building Nordlaw and exploring Indic NLP research pipelines
+
+💬 Open to discussing full-stack systems, machine learning engineering, and web architecture
+
+✍ Technical builder and creator documenting development workflows
+
+🌱 Currently learning and exploring:
+
+Advanced data structures and system optimization
+
+Deep learning model deployment and computer vision pipelines
+
+📬 How to reach me: waldron.rodrigues2006@gmail.com
+
+💪 This is where I write, code, and solve problems: https://github.com/Waldron18/
