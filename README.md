@@ -6,8 +6,6 @@ As an engineer, I combine an obsessive attention to detail with a commitment to 
 Personal Background & Focus
 👨‍🎓 Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune
 
-🔭 Currently building Nordlaw and exploring Indic NLP research pipelines
-
 💬 Open to discussing full-stack systems, machine learning engineering, and web architecture
 
 ✍ Technical builder and creator documenting development workflows
